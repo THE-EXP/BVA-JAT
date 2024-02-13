@@ -1,0 +1,14 @@
+{
+  "name": "BVA-JAT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js",
+    "debug": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "EXP",
+  "license": "MIT"
+}
