@@ -1,5 +1,5 @@
 # Verdict
- * Pending...
+ * 'Technical specialist' evaluated that my skills are not enough for the position
 # BVA JAT
  Application Task for Basenko Viktor Aleksandrovich IT company
 
